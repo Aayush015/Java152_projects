@@ -1,8 +1,6 @@
 package Homework_6;
 /*************************************************************************************
- * Assignment 5
  * Name: Aayush Kafle
- * E-mail: akafle1@unm.edu
  * Course: CS 152 - Section 006
  * Date Submitted: 11/22/2021
  *
